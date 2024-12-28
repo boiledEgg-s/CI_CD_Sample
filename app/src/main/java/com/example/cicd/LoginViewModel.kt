@@ -62,4 +62,5 @@ class LoginViewModel : ViewModel() {
     private fun clearGeneralError() {
         _generalError.value = null
     }
+
 }
